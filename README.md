@@ -1,2 +1,2 @@
 # shop-now
-https://yassineghorbal.github.io/shop-now/
+https://yassineghorbal.github.io/ShopNow/
